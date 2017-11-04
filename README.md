@@ -1,2 +1,3 @@
-# coding-with-django
-coding-with-django: writting codes with django
+# pybackend
+
+Attempts on realizing web backend with python libs.
